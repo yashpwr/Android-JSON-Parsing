@@ -1,0 +1,2 @@
+rootProject.name='Android JSON Parsing'
+include ':app'
